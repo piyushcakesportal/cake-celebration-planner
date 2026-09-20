@@ -30,7 +30,7 @@ export default function Page() {
         <header className="cn-nav">
           <div className="cn-brand"><span className="cn-mark">✦</span>Celebration Notes</div>
           <nav className="cn-navlinks" aria-label="Page sections">
-            <a href="#size">Cake size</a><a href="#delivery">Delivery</a><a href="#photos">Photo cakes</a>
+            <a href="#size">Cake size</a><a href="#delivery">Delivery</a><a href="#photos">Photo cakes</a><a href="/blog">Blog</a>
           </nav>
         </header>
         <main>
